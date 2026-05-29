@@ -54,7 +54,7 @@ Based in **Pakistan**. Open-source builder at **[ImagineBowl](https://github.com
 ## Connect
 
 - 🏢 Org: [ImagineBowl](https://github.com/ImagineBowl)
-- 📧 Email: aminhas933@gmail.com
+- 📧 Email: ahsan.minhas.official@gmail.com
 - 💼 GitHub: [@Ahsan-Minhas](https://github.com/Ahsan-Minhas)
 
 ---
