@@ -18,30 +18,6 @@ I build software people actually want to use — mobile apps, desktop tools, bro
 
 ---
 
-## Featured projects
-
-### ImagineBowl
-
-| Project | Description |
-|--------|-------------|
-| [QuranDaily](https://github.com/ImagineBowl/QuranDaily) | Quran reader & listener with search, synced recitation, and offline support |
-| [Raven](https://github.com/ImagineBowl/Raven) | Local-first audiobook player for iOS |
-| [Sonance](https://github.com/ImagineBowl/Sonance) | Instrument tuner / pitch detector |
-| [EQfi](https://github.com/ImagineBowl/EQfi) | AI-powered system-wide equalizer for macOS |
-| [VibeRite](https://github.com/ImagineBowl/VibeRite) | macOS writing assistant powered by local Ollama |
-| [AI-Page-Summarizer](https://github.com/ImagineBowl/AI-Page-Summarizer) | Summarize any webpage with Ollama, ChatGPT, or Gemini |
-| [AudioConverter](https://github.com/ImagineBowl/AudioConverter) | Browser and server-based audio conversion platform |
-
----
-
-## Tech stack
-
-**Languages:** Swift, JavaScript, Kotlin, Python 
-**Platforms:** iOS, macOS, Web, Android.  
-**Focus areas:** App architecture, audio/media, AI integrations, developer tools, ML. 
-
----
-
 ## Currently
 
 - Growing the **[ImagineBowl](https://github.com/ImagineBowl)** open-source org
